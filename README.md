@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github.com/vaibhavjanaskar45/Snacktrack/blob/main/src/main/resources/static/shopping-cart.png](https://github.com/vaibhavjanaskar45/SnackTrack-Web-App/blob/main/snacktrackweb/src/main/resources/static/fast-food.png" alt="SnackTrack Logo" width="200"/>
+  <img src="https://github.com/vaibhavjanaskar45/SnackTrack-Web-App/blob/main/snacktrackweb/src/main/resources/static/fast-food.png" alt="SnackTrack Logo" width="200"/>
 </p>
 
 # SnackTrack - College Canteen Management System
